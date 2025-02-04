@@ -2,7 +2,9 @@
 
 A Python-based interface that enables touchless scrolling using webcam input and machine learning. Combines YOLOv5 classification with optical flow tracking for intuitive hand gesture control.
 
-![Demo Visualization](https://via.placeholder.com/800x500.png?text=Demo+Visualization+-+HUD+with+Flow+Arrows+and+Scroll+Control)
+
+![Visualization](https://github.com/user-attachments/assets/cae90d31-5afe-4274-9337-4946cee9d2ba)
+
 
 ## Features
 
