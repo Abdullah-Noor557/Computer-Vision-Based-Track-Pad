@@ -1,4 +1,4 @@
-# Sci-Fi Touch Interface - Hand Gesture Scroll Control
+# AirScroll - Hand Gesture Scroll Control
 
 A Python-based interface that enables touchless scrolling using webcam input and machine learning. Combines YOLOv5 classification with optical flow tracking for intuitive hand gesture control.
 
