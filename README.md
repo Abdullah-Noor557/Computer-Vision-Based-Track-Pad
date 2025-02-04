@@ -10,12 +10,11 @@ A Python-based interface that enables touchless scrolling using webcam input and
 
 - 🖐️ Real-time hand state classification using YOLOv5
 - 🌀 Optical flow-based scroll detection
-- 📊 Sci-fi inspired HUD overlay with:
+- 📊 HUD overlay with:
   - Classification confidence bar
   - Scroll speed visualization
   - Real-time FPS counter
   - Directional flow arrows
-- ⚡ Performance optimizations for smooth operation
 
 ## Installation
 
